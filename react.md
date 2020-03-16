@@ -6,7 +6,7 @@ copy of the array, with the changes we made.
 
 Provided we're keeping track of the index we're at when mapping over the state array, this could be solved like this:
 ```javascript
-  // say we're mapping over something...
+  // Say we're mapping over something...
   .map((x, xIndex) => {
      setState((previousState) => {
       previousState.map((item, itemIndex) => {
