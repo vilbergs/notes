@@ -1,3 +1,5 @@
+# React Notes
+
 ## Working with array state
 
 When dealing with an array of state, it's best to make sure to always keep the array immutable. 
@@ -22,3 +24,11 @@ Provided we're keeping track of the index we're at when mapping over the state a
      })
   })
 ```
+
+
+## Hooks
+
+- don't leave your dependencies empty (ever) if there are dependencies involved in a useEffect() hook
+- Don't be smart about dependencies. Just list them in the array.
+- it's not when the effect runs, it's which state it syncs with
+
