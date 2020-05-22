@@ -1,28 +1,27 @@
 
-### Interviewing
+# Interviewing Notes
 
----
+## Before applying
 
-#### Before applying
-
-- What you like about your current job?
+### Questions to answer
+- What do you like about your current job?
 - What do you want in your next job?
 - Which companies have appealing engineering cultures?
 
-#### Why frontend interviewing is so difficult
+## Why frontend interviewing is so difficult
 
 - Frontend is very broad (all thinkable devices have a frontend)
 - Frontend tech changes very fast
 - There does not seem to be a clear definition of frontend concepts between engineers. 
 
-#### Resume
+## Resume
 
 - Keep it limited to one page
  - Skills
  - Experience
  - Projects / tech you've worked with
 
-#### Preparing
+## Preparing
 
 - Ask how many steps are in the interview process?
 - How big is the team?
