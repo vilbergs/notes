@@ -4,6 +4,7 @@
 ## Before applying
 
 ### Questions to answer
+
 - What do you like about your current job?
 - What do you want in your next job?
 - Which companies have appealing engineering cultures?
