@@ -3,7 +3,6 @@ The Weekly Review
 
 1:  Get Clear
 ----------------
-
     1. Collect all Ins
     2. Short Mindsweep
     3. Process any notebooks
