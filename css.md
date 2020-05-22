@@ -7,3 +7,13 @@
 
 ## Media queries
 - To utilize browsers' dark mode, use prefers-color-scheme media query.
+
+## Images
+
+### Greyscale images missing an alt tag
+
+```css
+img:not([alt]) {
+  filter: grayscale(100%);
+}
+```
