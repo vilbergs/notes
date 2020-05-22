@@ -1,6 +1,8 @@
 
 # Interviewing Notes
 
+A handy sheet to keep close when going through an interview process
+
 ## Before applying
 
 ### Questions to ask yourself
