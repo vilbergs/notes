@@ -6,7 +6,7 @@
 
 ## Colors
 
-- Javascript Yellow RGB color rgb(243, 223, 73)
+- Javascript Yellow RGB color: `rgb(243, 223, 73)`
 
 ## Images
 
