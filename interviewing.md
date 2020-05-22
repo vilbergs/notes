@@ -3,7 +3,7 @@
 
 ## Before applying
 
-### Questions to answer
+### Questions to ask yourself
 
 - What do you like about your current job?
 - What do you want in your next job?
