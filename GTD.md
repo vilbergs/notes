@@ -8,8 +8,8 @@ The Weekly Review
     2. Short Mindsweep
     3. Process any notebooks
     4. Get Ins to zero 
-    -  Spend between 5-15 minutes on this
-    -  If your in's are piling up, consider 
+     - Spend between 5-15 minutes on this
+     - If your in's are piling up, consider 
        booking a session for this.
 
 2:  Get Current
