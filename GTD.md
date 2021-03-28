@@ -14,11 +14,12 @@ The Weekly Review
 2:  Get Current
 ----------------
     1. Clean Next Actions
-    2. Look through historical calendar
-    3. Look through future calendar
-    4. Review waiting for list
-    5. Look through projects, decide next actions
-    6. Review relevant checklists
+    2. Look at family calendar.
+    3. Look through historical calendar
+    4. Look through future calendar
+    5. Review waiting for list
+    6. Look through projects, decide next actions
+    7. Review relevant checklists
 
 3:  Get Creative
 ----------------
